@@ -2,12 +2,30 @@
 
 It is repo for Machine Learning 2022 Course final project 
 
+We create model, which can split large pdf with
+several documents of the same type in small doc-
+uments. For example, 10 pages of which the first
+document is 5, the second is 3 and the third is 2
+and we want to split it into these three documents.
+That is, we need to build a classifier for pages that
+will predict whether the page is the first last or is
+in the middle. The document type is known, but
+not the quantity in the large batch
+
+Our best model have 87 procent accuracy
+
+
+## How to use: 
+
+
+
+
 ## Some usefull links:
 
 ML Project Proposal  https://docs.google.com/document/d/1pBjScz3DnUuLmm07EhDZPkjdRHO1V2f_kBrFiRIjKQ4/edit?usp=sharing
 
 Project *.pdf report. https://www.overleaf.com/read/htkpfqnrpxgg
 
-Data https://drive.google.com/file/d/1trPamlHpgrxMFQRTvewapf_u5bdna690/view?usp=sharing
+Data https://github.com/EvgeniaKomleva/Multipage-document-classifier/blob/main/Data.zip
 
-1 [Dataset](https://github.com/EvgeniaKomleva/Multipage-document-classifier)
+
