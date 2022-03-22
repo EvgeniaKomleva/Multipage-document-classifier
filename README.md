@@ -17,7 +17,12 @@ Our best model have 87 procent accuracy
 
 ## How to use: 
 
+We implement different methods:
 
+1. LSTM and BERT https://github.com/EvgeniaKomleva/Multipage-document-classifier/blob/main/bert_lstm_clasifier.ipynb
+2. Logistic Regression https://github.com/EvgeniaKomleva/Multipage-document-classifier/blob/main/MultiPageClassification.ipynb
+3. ExtraTreesClassifier, StackingClassifier, DecisionTreeClassifier, KNeighborsClassifier https://github.com/EvgeniaKomleva/Multipage-document-classifier/blob/main/Kirill_Part.ipynb
+4. RandomForestClassifier  https://github.com/EvgeniaKomleva/Multipage-document-classifier/blob/main/Vadim_part.ipynb
 
 
 ## Some usefull links:
