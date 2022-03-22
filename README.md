@@ -1,4 +1,8 @@
-# Multipage-document-classifier
+# Multipage document classifier
+
+It is repo for Machine Learning 2022 Course final project 
+
+## Some usefull links:
 
 ML Project Proposal  https://docs.google.com/document/d/1pBjScz3DnUuLmm07EhDZPkjdRHO1V2f_kBrFiRIjKQ4/edit?usp=sharing
 
